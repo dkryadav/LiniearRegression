@@ -5,7 +5,7 @@ Linear regression is a supervised learining algorithm used when target / depende
 Download Dataset from github:https://github.com/stedy/Machine-Learning-with-R-datasets/blob/master/insurance.csv
 
 
-DEFINE
-DISCOVER
-DEVELOP
-DEPLOYMENT
+Part 1.DEFINE
+Part 2.DISCOVER
+Part 3.DEVELOP
+Part 4.DEPLOYMENT
